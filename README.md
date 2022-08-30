@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SubhadipKundu1999
-- 👀 I’m interested in WEB DESIGN...
+- 👀 I’m interested in WEB DESIGN.as well as microcontroller  and circuit design..
 - 🌱 I’m currently learning ..PYTHON AND FULL STACK WEB DEVELOPMENT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...   subhadipkundu1000@gmail.com
